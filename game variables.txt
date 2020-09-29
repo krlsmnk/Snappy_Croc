@@ -1,0 +1,25 @@
+Game Variables 
+
+Pre-Game "constants":
+
+Int:  Number of lanes / Crocodiles (Default 5)
+VAR Gamemode: Arcade / Endless? 
+Int: Game Duration (in seconds, default 60, arcade mode only)
+Int: numPhases (the number of phases in the game, default 6, arcade mode only)
+Int: Bite Penalty (the number of points deducted for a bite, default 3, arcade mode only)
+Int: health (the number of bites a player can receive before losing, default 3, endless mode only)
+Double: minLength (The minimum distance a crocodile will extend before reversing, default 0.33). A hit crocodile immediately begins reversing.
+Double: biteZone (the extension length that will result in a bite if a crocodile extends into it, default 0.7)
+Double: minSpeed, maxSpeed (the minimum and maximum speed a crocodile can extend at, defaults 0.5 and 2). When phases change (at fixed time intervals), these values will both be shifted up by a fixed amount. 
+Double: phaseSpeedBonus (a value between 0.1 and 2). After each phase, both the minSpeed and the maxSpeed values will have this number added to them. 
+Int[5] winAmount (five integer point-value threshholds that determine which sound effect is played at end of game). 
+Double: minPeriod, maxPeriod (the amount of time, in seconds, between extensions, defaults are 1.67 and 4). Both of these values are constant. 
+Double: rushPeriod (the amount of time, in seconds, between extensions. Only used during the last phase. Default 0.67)
+
+During-Game Values:
+
+Int: Points, Bites (both incremented by 1)
+Double:  Extension Length (A randomly-generated value between "minLength" and 1). This value is generated when a crocodile needs to come out, and is specific to that extension for that crocodile. This should not be an even distribution over minLength to 1, and should be weighted more heavily towards the biteZone value, especially in later phases. (This will need some tweaking). 
+Double: Extension speed (A randomly-generated value between "minSpeed" and "maxSpeed"). This value is generated when a crocodile needs to come out, and is specific to that extension for that crocodile. This CAN be an even distribution over min-max.
+Int: simultaneousCrocs (the number of crocodiles that simultaneously extend at each period). This value is always 1 during the first (1/6th*numPhases) phases AND the last phase. Its value is 3 during the (1/6th*numPhases) last phases (except the very last phase, which is 1), and 2 during all the other/middle phases. Since the default number of phases is 6, these values shoud look like: [1, 2, 2, 2, 3, 1]. 
+Double: Period  (the amount of time, in seconds, between extensions. A evenly-decreasing value between "maxPeriod" and "minPeriod"). In phase 1, this value = "maxPeriod". In the 2nd-to-last phase, this value = "minPeriod". In the last phase, or the "rush phase", this value = "rushPeriod". 
