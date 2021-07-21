@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.OpenXRExpansionPlugin.cppa7.o",
+		"Module.OpenXRExpansionPlugin.cppa8.o",
+		"Module.OpenXRExpansionPlugin.gen.cppa7.o",
+		"Module.OpenXRExpansionPlugin.gen.cppa8.o"
+	]
+}

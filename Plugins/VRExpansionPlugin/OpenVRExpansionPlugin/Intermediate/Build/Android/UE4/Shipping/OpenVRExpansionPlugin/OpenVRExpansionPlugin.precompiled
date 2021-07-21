@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.OpenVRExpansionPlugin.cppa7.o",
+		"Module.OpenVRExpansionPlugin.cppa8.o",
+		"Module.OpenVRExpansionPlugin.gen.cppa7.o",
+		"Module.OpenVRExpansionPlugin.gen.cppa8.o"
+	]
+}

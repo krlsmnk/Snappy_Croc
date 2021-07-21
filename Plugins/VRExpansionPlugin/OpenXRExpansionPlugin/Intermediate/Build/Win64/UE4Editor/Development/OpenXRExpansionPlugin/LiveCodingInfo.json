@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OpenXRExpansionPlugin.cpp.obj": [
+			"OpenXRExpansionFunctionLibrary.cpp.obj",
+			"OpenXRExpansionPlugin.cpp.obj"
+		],
+		"Module.OpenXRExpansionPlugin.gen.cpp.obj": [
+			"OpenXRExpansionFunctionLibrary.gen.cpp.obj",
+			"OpenXRExpansionPlugin.init.gen.cpp.obj"
+		]
+	}
+}

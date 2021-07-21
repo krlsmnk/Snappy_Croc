@@ -1,0 +1,28 @@
+{
+	"OutputFiles": [
+		"Module.VRExpansionPlugin.1_of_4.cppa7.o",
+		"Module.VRExpansionPlugin.2_of_4.cppa7.o",
+		"Module.VRExpansionPlugin.3_of_4.cppa7.o",
+		"Module.VRExpansionPlugin.4_of_4.cppa7.o",
+		"Module.VRExpansionPlugin.1_of_4.cppa8.o",
+		"Module.VRExpansionPlugin.2_of_4.cppa8.o",
+		"Module.VRExpansionPlugin.3_of_4.cppa8.o",
+		"Module.VRExpansionPlugin.4_of_4.cppa8.o",
+		"Module.VRExpansionPlugin.gen.1_of_8.cppa7.o",
+		"Module.VRExpansionPlugin.gen.2_of_8.cppa7.o",
+		"Module.VRExpansionPlugin.gen.3_of_8.cppa7.o",
+		"Module.VRExpansionPlugin.gen.4_of_8.cppa7.o",
+		"Module.VRExpansionPlugin.gen.5_of_8.cppa7.o",
+		"Module.VRExpansionPlugin.gen.6_of_8.cppa7.o",
+		"Module.VRExpansionPlugin.gen.7_of_8.cppa7.o",
+		"Module.VRExpansionPlugin.gen.8_of_8.cppa7.o",
+		"Module.VRExpansionPlugin.gen.1_of_8.cppa8.o",
+		"Module.VRExpansionPlugin.gen.2_of_8.cppa8.o",
+		"Module.VRExpansionPlugin.gen.3_of_8.cppa8.o",
+		"Module.VRExpansionPlugin.gen.4_of_8.cppa8.o",
+		"Module.VRExpansionPlugin.gen.5_of_8.cppa8.o",
+		"Module.VRExpansionPlugin.gen.6_of_8.cppa8.o",
+		"Module.VRExpansionPlugin.gen.7_of_8.cppa8.o",
+		"Module.VRExpansionPlugin.gen.8_of_8.cppa8.o"
+	]
+}

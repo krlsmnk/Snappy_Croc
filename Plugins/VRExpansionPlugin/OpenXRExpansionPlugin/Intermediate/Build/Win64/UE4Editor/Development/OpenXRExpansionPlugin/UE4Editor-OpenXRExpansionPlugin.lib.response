@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OpenXRExpansionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Intermediate\Build\Win64\SmackyCrocEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.obj"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.gen.cpp.obj"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Default.rc2.res"
+/OUT:"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\UE4Editor-OpenXRExpansionPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_OpenXRExpansionPlugin
