@@ -34,10 +34,10 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
-"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
-"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Default.rc2.res"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Intermediate\Build\Win64\SmackyCrocEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Default.rc2.res"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\lib\win64\openvr_api.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
@@ -71,8 +71,8 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Binaries\Win64\UE4Editor-OpenVRExpansionPlugin.dll"
-/IMPLIB:"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.suppressed.lib"
-/PDB:"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Binaries\Win64\UE4Editor-OpenVRExpansionPlugin.pdb"
+/OUT:"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Binaries\Win64\UE4Editor-OpenVRExpansionPlugin.dll"
+/IMPLIB:"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.suppressed.lib"
+/PDB:"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Binaries\Win64\UE4Editor-OpenVRExpansionPlugin.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_OpenVRExpansionPlugin

@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VREXPANSIONPLUGIN_AnimNode_ApplyHandDeltas_generated_h
 
-#define HostProject_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_Grippables_AnimNode_ApplyHandDeltas_h_15_GENERATED_BODY \
+#define Smacky_Croc_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_Grippables_AnimNode_ApplyHandDeltas_h_15_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAnimNode_ApplyHandDeltas_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FAnimNode_Base Super;
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FAnimNode_ApplyHandDeltas>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_Grippables_AnimNode_ApplyHandDeltas_h
+#define CURRENT_FILE_ID Smacky_Croc_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_Grippables_AnimNode_ApplyHandDeltas_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

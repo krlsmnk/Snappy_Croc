@@ -1,0 +1,40 @@
+C:\Users\krlsmnk\Documents\GitHub\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h
+C:/Users/krlsmnk/Documents/GitHub/Smacky_Croc/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/OpenVRExpansionPlugin/OpenVRExpansionFunctionLibrary.gen.cpp
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\krlsmnk\Documents\GitHub\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/OpenVRExpansionFunctionLibrary.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cctype
+C:\Program Files\EpicGames\UE_4.26\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\KismetProceduralMeshLibrary.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4\Inc\ProceduralMeshComponent\KismetProceduralMeshLibrary.generated.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
+C:\Users\krlsmnk\Documents\GitHub\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\OpenVRExpansionPlugin\OpenVRExpansionFunctionLibrary.generated.h
+C:/Users/krlsmnk/Documents/GitHub/Smacky_Croc/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/OpenVRExpansionPlugin/OpenVRExpansionPlugin.init.gen.cpp
+C:/Users/krlsmnk/Documents/GitHub/Smacky_Croc/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4/Inc/OpenVRExpansionPlugin/SteamVRKeyboardComponent.gen.cpp
+C:\Users\krlsmnk\Documents\GitHub\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/SteamVRKeyboardComponent.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+C:\Program Files\EpicGames\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
+C:\Users\krlsmnk\Documents\GitHub\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\OpenVRExpansionPlugin\SteamVRKeyboardComponent.generated.h

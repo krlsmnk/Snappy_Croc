@@ -31,11 +31,11 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Private
-/I C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin
-/I C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source
+/I "C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Private"
+/I "C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin"
+/I "C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source"
 /I Runtime\Engine\Private\PhysicsEngine
-/I C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public
+/I "C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -272,12 +272,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp"
-/FI"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h"
-/Fo"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
+/FI"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Intermediate\Build\Win64\SmackyCrocEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Intermediate\Build\Win64\SmackyCrocEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Intermediate\Build\Win64\SmackyCrocEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp"
+/FI"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h"
+/Fo"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
 /TP
 /GR-
 /W4

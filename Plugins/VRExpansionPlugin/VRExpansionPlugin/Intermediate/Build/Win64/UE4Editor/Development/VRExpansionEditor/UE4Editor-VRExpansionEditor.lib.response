@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-VRExpansionEditor.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Intermediate\Build\Win64\SmackyCrocEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Module.VRExpansionEditor.cpp.obj"
-"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Default.rc2.res"
-/OUT:"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\UE4Editor-VRExpansionEditor.lib"
+"C:\Users\krlsmnk\Documents\GitHub\Smacky_Croc\Intermediate\Build\Win64\SmackyCrocEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\krlsmnk\Documents\GitHub\Smacky_Croc\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Module.VRExpansionEditor.cpp.obj"
+"C:\Users\krlsmnk\Documents\GitHub\Smacky_Croc\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Default.rc2.res"
+/OUT:"C:\Users\krlsmnk\Documents\GitHub\Smacky_Croc\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\UE4Editor-VRExpansionEditor.lib"
 /INCLUDE:IMPLEMENT_MODULE_VRExpansionEditor

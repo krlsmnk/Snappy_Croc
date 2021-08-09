@@ -34,10 +34,10 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.obj"
-"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.gen.cpp.obj"
-"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Default.rc2.res"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Intermediate\Build\Win64\SmackyCrocEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.obj"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.gen.cpp.obj"
+"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Default.rc2.res"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\OpenXR\loader\win64\openxr_loader.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
@@ -73,8 +73,8 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Binaries\Win64\UE4Editor-OpenXRExpansionPlugin.dll"
-/IMPLIB:"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\UE4Editor-OpenXRExpansionPlugin.suppressed.lib"
-/PDB:"C:\Users\RDITLKAS\Downloads\VRExpPluginExample-4.26-Chaos\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Binaries\Win64\UE4Editor-OpenXRExpansionPlugin.pdb"
+/OUT:"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Binaries\Win64\UE4Editor-OpenXRExpansionPlugin.dll"
+/IMPLIB:"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\UE4Editor-OpenXRExpansionPlugin.suppressed.lib"
+/PDB:"C:\Users\RDITLKAS\Documents\Unreal Projects\Smacky_Croc\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Binaries\Win64\UE4Editor-OpenXRExpansionPlugin.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_OpenXRExpansionPlugin

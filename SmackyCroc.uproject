@@ -29,7 +29,7 @@
 		},
 		{
 			"Name": "OpenXRExpansionPlugin",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "GitSourceControl",
