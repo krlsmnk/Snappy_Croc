@@ -2,9 +2,9 @@
 	"RemapUnityFiles": 
 	{
 		"Module.OpenVRExpansionPlugin.cpp.obj": [
-			"OpenVRExpansionFunctionLibrary.cpp.obj",
 			"OpenVRExpansionPlugin.cpp.obj",
-			"SteamVRKeyboardComponent.cpp.obj"
+			"SteamVRKeyboardComponent.cpp.obj",
+			"OpenVRExpansionFunctionLibrary.cpp.obj"
 		],
 		"Module.OpenVRExpansionPlugin.gen.cpp.obj": [
 			"OpenVRExpansionFunctionLibrary.gen.cpp.obj",
